@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0498b82c-1488-4b68-bf5e-b187c8076035" name="message-board" url="http://localhost/test/message_board/">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\test\message_board" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
